@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Selamat Datang
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Web ini dirancang untuk menghimpun catatan-catatan selama kajian dekolonisasi pengetahuan Islam. Anda bisa menambahkan catatan lewat komentar agar nanti diupdate oleh server.
