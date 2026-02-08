@@ -1,13 +1,25 @@
 ---
+title: Catatan atas Coloniality of Being Maldonado Torres
+author:
+  - Abimanyu
+description: Maldonado selain menghubungkan gagasannya tentang kolonialitas ada kepada Dussel dan Levinas, juga tak luput untuk menghubungkannya dengan kritik Fanon terhadap ontologi Hegel dalam bukunya Black Skins and White Masks
+permalink:
+aliases:
+  - kolonialitas ontologis
+draft: false
+date: 2025-07-06
+cover:
 tags:
-  - Dekolonialitas
-  - lakpesdam
+  - colonialitybeing
+  - kolonialitas
+  - maldonado
 ---
+
 Bacaan: The Coloniality of Being, Maldonado Torres
 
 Maldonado memboboti kata being dengan nuansa fenomenologis. artinya ketika kita ingin mempelajari apa yang dia maksud dengan kolonialitas ada maka kita mesti menelusurinya dalam ranah filsafat. 
 
-ia bertolak dari kritik Levinas terhadap Heidegger yang terafiliasi dengan Nazi. Dalam pandangannya Levinas mengatakan bahwa Heidegger telah menyejajarkan ontologi dengan filsafat kekuasaan yang membenarkan kekerasan.
+ia bertolak dari kritik Levinas terhadap Heidegger yang terafiliasi dengan Nazi. Levinas mengatakan bahwa Heidegger telah menyejajarkan ontologi dengan filsafat kekuasaan yang membenarkan kekerasan.
 
 namun jejak yang paling dekat dengan kolonialitas ada sejatinya adalah apa yang dipikirkan oleh Dussel. Dussel membuat hubungan antara ada dan sejarah dalam konteks kolonial dan menjadi pintu utama bagi kita untuk memasuki gagasan kolonialitas ada.  Konsep kolonialitas sendiri, dalam pembacaan Maldonado, lahir dari perbincangan tentang implikasi kolonialitas kekuasaan dalam area sosial yang berbeda-beda. artinya untuk mempelajari kolonialitas ada, kita juga tidak boleh mengabaikan kolonialitas kekuasaan,
 
@@ -42,4 +54,3 @@ Mengutip Dussel, bahwa semenjak hernan cortes menginjakkan kakinya di benua Amer
 di dalam artikelnya, maldonado juga membahas bagaimana kolonialitas juga memerlukan masukulinitas patriarkis dengan mengutip Joshua Goldstein bahwa: 1) seksualitas laki-laki sebagai kausa agresi, 2) feminisasi musuh sebagai simbol dominasi dan 3) kebergantungan atas eksploitasi kerja perempuan. seksualitas ini menurut Maldonado adalah satu bentuk dari misantropis.
 
 Terdapat tiga poin utama yang dibawakan oleh Maldonado dan menyetujui Dussel, Gordon, Quijano, dan Wynter, yakni kontribusi mereka dalam pemahaman tentang kolonialitas dan ras: 1) memahami ras sebagai skeptisisme misantropik, 2) interrelasi antara ras dan gender, 3) memhami ras dan gender dalam modernitas sebagai hasil dari naturalisasi etika perang. (yang terakhir ini akan dijelaskan kaitannya dengan being dan heidegger)
-

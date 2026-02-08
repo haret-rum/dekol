@@ -1,11 +1,19 @@
 ---
-title: Dekolonisasi Pengetahuan Islam
+author:
+  - Tim Lakpesdam
+description: Di bawah tema ini, tulisan-tulisan akan berfokus pada dekolonisasi pengetahuan Islam secara umum, yang di dalamnya kolonialitas masih berproses aktif dan secara berkesinambungan direproduksi dan dipraktikkan oleh subjek terjajah. Tentu ini adalah kerja yang berat untuk kita mendekolonisasi pengetahuan Islam.
+permalink:
+aliases:
+draft: false
+date: 2025-07-08
+cover:
+title: Tema - Dekolonisasi Pengetahuan Islam
 tags:
-  - Dekolonialitas
-category:
-  - Esai
-topic: Dekolonisasi Pengetahuan
+  - judul
+  - makalah
+  - grandtema
 ---
+
 ## Pengantar
 
 **Dekolonisasi** Pengetahuan Islam mengasumsikan bahwa pengetahuan-pengatahuan Islam yang selama ini kita anut — kerangka epistemiknya, semisal — tak lain adalah hasil percampuran dengan kebudayaan kolonial. Apa yang dikira tradisi pemikiran sebenarnya adalah percampuran atau hibridisasi dengan kebudayaan lain.
@@ -47,6 +55,7 @@ Demi matangnya hasil penulisan nanti, tema ini mensyaratkan beberapa hal berikut
 ## Ringkasan
 
 Objek → dekolonisasi pengetahuan Islam 
+
 Batasan → sesuai pengantar di atas
 
 - Dekolonisasi menyangkut kajian terbaru. Semisal tokoh, ya tokoh terbaru. 
@@ -67,9 +76,7 @@ Masih terdapat referensi lainnya yang dapat dibaca di tautan berikut:
 Website penting yang kaya dengan dekolonialitas dan Islam:
 
 - [Decolonial Archives \| Contending Modernities](https://contendingmodernities.nd.edu/tag/decolonial/)
-
 - [ReOrient: The Journal of Critical Muslim Studies](https://www.scienceopen.com/collection/cae35b65-3cda-42b6-a878-1657e232be1c)
-
 - [Decolonial International Network \| Decolonial International Network](https://din.today/)
 
 Pembagian tugas membaca untuk pertemuan berikutnya:

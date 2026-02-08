@@ -1,3 +1,18 @@
+---
+title: TOR On Cam Dekolonial
+author:
+  - Tim Lakpesdam
+description: Berikut ini adalah deskripsi dari masing-masing topik yang akan disampaikan olah para pembicara.
+permalink:
+aliases:
+tags:
+  - lakpesdam
+  - oncam
+draft: false
+date: 2025-09-07
+cover:
+---
+
 # Dekolonisasi Pengetahuan Islam
 
 Dekolonisasi pengetahuan Islam mengasumsikan bahwa kerangka epistemik dari pengetahuan keislaman merupakan hasil percampuran dengan kebudayaan kolonial. Para pemikir Islam Modernis, seperti Ahmad Amin dan Taha Husain, tak segan menyerap premis-premis modernitas dari para orientalis dan para pemikir Barat untuk digunakan sebagai kerangka epistemik pemikiran mereka. 
@@ -7,6 +22,8 @@ Tugas dekolonisasi pengetahuan Islam kemudian adalah membongkar kolonialitas epi
 Pertanyaan penting berikutnya adalah: sejauh mana kolonialitas epistemik sebagai sebuah proses terus mereproduksi dirinya dalam kajian keislaman? Sejauh mana upaya dekolonisasi pengetahuan Islam saat ini berhasil membongkar klaim-klaim kolonial?
 
 # Opsi dekolonial dalam Islam dekolonial
+
+^e63fd5
 
 Teori dekolonial sebagai bidang multidisipliner banyak menemukan relevansinya dalam berbagai bidang studi, termasuk studi Islam. Walter Mignolo dengan konsep triadiknya modernitas/kolonialitas/dekolonialitas menawarkan kerangka kerja yang berguna untuk memahami bagaimana warisan kolonialisme terus menerus membentuk cara kita berpikir dan bertindak saat ini. Dalam konteks studi Islam, pendekatan dekolonial berusaha meretas realitas modernitas/kolonialitas yang bercokol di epistemologi dan metodologi yang digunakan, serta memikirkan ulang (re-thinking) pengetahuan Islam dari perspektif yang lebih membebaskan.
 

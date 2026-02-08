@@ -1,9 +1,19 @@
 ---
+title: Excerpts from "On Decoloniality"
+author:
+  - Abimanyu
+description: Daftar kutipan yang mengandung beberapa istilah teknis, dari buku "On Decoloniality" karya Mignolo dan Walsh
+permalink:
+aliases:
+draft: false
+date: 2025-08-08
+cover:
 tags:
-  - lakpesdam
   - Dekolonialitas
+  - kolonialitas
+  - mignolo
 ---
-berikut ini adalah kutipan-kutipan dari buku decoloniality mignolo yang memuat beberapa kata kunci dasar:
+berikut ini adalah kutipan-kutipan dari buku On Decoloniality Mignolo dan Walsh yang memuat beberapa kata kunci dasar:
 
 **relationality** atau  **Vincularidad** is the awareness of the integral relation and interdependence amongst all living organisms (in which humans are only a part) with territory or land and the cosmos.
 

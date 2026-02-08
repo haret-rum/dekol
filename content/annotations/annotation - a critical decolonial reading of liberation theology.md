@@ -1,3 +1,17 @@
+---
+title: Annotation - A Critical Decolonial Reading Of Liberation Theology
+author:
+  - Abimanyu
+description:
+permalink:
+aliases:
+tags:
+  - teologipembebasan
+draft: false
+date: 2025-08-02
+cover:
+---
+
 > [!PDF|255,255,0] [[uj_45111+SOURCE1+SOURCE1.1.pdf#page=16&annotation=2887R|uj_45111+SOURCE1+SOURCE1.1, p.16]]
 > > Salman Sayyid (2014: 13),
 > 

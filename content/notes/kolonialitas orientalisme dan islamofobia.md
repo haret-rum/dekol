@@ -1,10 +1,18 @@
 ---
-title: Dari Menutup Diri ke Rasisme
+author:
+  - Abimanyu
+description:
+permalink:
+aliases:
+  - orientalisme dan islamofobia
+draft: false
+date: 2025-07-08
+cover:
+title: Kolonialitas, Orientalisme dan Islamofobia
 tags:
-  - zinedeen
-  - Dekolonialitas
+  - kolonialitas
+  - orientalisme
 ---
-
 Apakah sebenarnya terdapat hubungan antara sikap menutup diri dengan rasisme?
 
 Ya, ketika sikap menutup diri diartikan sebagai pengasingan terhadap 'yang lain'. Ketika sikap menutup diri dikonstruksikan sebagai gagasan 'diri-normatif' *(self-normative)* yang dipaksakan terhadap 'yang lain'. Sikap menutup diri dapat menjelma menjadi satu bentuk rasisme tatkala ia muncul sebagai universalisme yang diidentitaskan — yang dicarikan identitasnya — dan dipolitisasikan untuk dipaksakan terhadap 'yang lain'. Selain Barat yang reaksioner atau pemuja kapitalisme, sikap semacam ini juga sering dianut oleh sebagian pengusung gerakan anti-anti, misalnya anti-Barat, anti-Semit, anti-Feminis dan seterusnya. 
@@ -42,9 +50,6 @@ Islamofobia yang kita saksikan sekarang adalah satu bentuk rasisme, sebagaimana 
 Oleh sebab itu, tidak cukup bagi kita menampik Islamofobia dan turunan rasismenya yang culas hanya dengan membantah dan membongkar muatan diskursusnya. Tapi juga harus membongkar bagaimana kemunculan dan cara kerja diskursus tersebut sebagai sebuah ideologi, yang membenarkan dan melegitimasi praktik-praktik imperial. Menampik Islamofobia dan orientalisme bukanlah semacam perlombaan mengenai siapa yang lebih superior dibanding yang lain. Bukankah ketika kita melakukan hal semacam itu justru kita sedang menggunakan cara-cara yang sama dengan cara barat mengukuhkan 'diri-normatif' mereka?!
 
 Kita kembali ke pertanyaan awal: apakah sikap menutup diri dapat mengantarkan pada rasisme? Ya jika diri diesensialkan sebagai 'diri-normatif' dan diwacanakan untuk menganggap rendah 'yang lain' agar dapat menguasainya.
-
-Ditulis oleh Segara Alam
-
 
 [^1]: saya tidak akan membicarakan bagaimana persisnya islamofobia terhubung dengan orientalisme di tulisan ini, saya hanya akan membicarakan bagaimana *othering* — yakni melainkan pihak tertentu — bertransformasi menjadi proto Rasisme kemudian Rasisme dan membutuhkan orientalisasi dalam perihal diskursusnya.
 [^2]: dengan kata lain adalah orientalisme institusional dalam pengistilahan Sadik J. Al-Azm dan Gilbert Achcar.
